@@ -1,6 +1,7 @@
-## About this
-STATUS: WIP
+##State
+ Working, but current Data-State from crpg-site is not able to reflect logoffs and game pauses.
 
+## About this
 CRPG now has a 'Stats'-Tab.
 It sadly has no direct calculation or export to quantify the rewards for your time spend.
 Therefore i wrote this thingy.
