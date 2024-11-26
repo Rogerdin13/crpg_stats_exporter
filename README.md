@@ -1,13 +1,13 @@
-##State
- Working, but current Data-State from crpg-site is not able to reflect logoffs and game pauses.
+## State
+!! WARNING !!
+This tool works, but:
+Since the current Data-State from crpg-site doesn't contain lastSpawn- or serverLeave-times this tool is only accurate when analysing 'block-data'.
+I am working on PRs to fix that and integrate this toll into the CRPG website when i can.
 
 ## About this
 CRPG now has a 'Stats'-Tab.
 It sadly has no direct calculation or export to quantify the rewards for your time spend.
 Therefore i wrote this thingy.
-
-!! WARNING !!
-Since currently this tool cannot cross-reference server join times or compute pauses in playing it currently only works on data, that is played in one sitting
 
 ## How-To-Use
 1. Go to [https://c-rpg.eu/](https://c-rpg.eu/)
