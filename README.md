@@ -21,9 +21,9 @@ Therefore i wrote this thingy.
 5. (optinal) Clear it for better overview
 6. Select the Timespan you want to export on the 'Stats'-Tab
 7. Click on the 'GET' response and navigate to its' 'Response'-Tab:
-   ![grafik](https://github.com/user-attachments/assets/c326a3bf-7fcb-4f49-9b5f-acac38283995)
-9. Rightclick onto 'data' and click on 'Copy all'
-10. Replace the contents of the 'raw_data.json' in the project with your clipboard-contents (select all and ctrl+v or rightclick->paste)
-11. Runing the 'main' python file.
+![grafik](https://github.com/user-attachments/assets/f673a89d-72d4-41ed-9483-a0519c6c4e78)
+8. Rightclick onto 'data' and click on 'Copy all'
+9. Replace the contents of the 'raw_data.json' in the project with your clipboard-contents (select all and ctrl+v or rightclick->paste)
+10. Runing the 'main' python file.
     1. through idle: open main.py and press f5
     2. though cli: python .\main.py  (when opened temrinal in project folder)
