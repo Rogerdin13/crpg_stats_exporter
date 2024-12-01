@@ -9,6 +9,12 @@ CRPG now has a 'Stats'-Tab.
 It sadly has no direct calculation or export to quantify the rewards for your time spend.
 Therefore i wrote this thingy.
 
+## Setting it up
+Install [python](https://www.python.org/)
+Clone the repo
+through idle: open main.py and press f5
+though cli: python .\main.py  (when opened temrinal in project folder)
+
 ## How-To-Use
 1. Go to [https://c-rpg.eu/](https://c-rpg.eu/)
 2. Go to 'Stats'-Tab on the 'Characters'-Page
