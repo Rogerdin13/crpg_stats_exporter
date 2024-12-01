@@ -21,7 +21,7 @@ Therefore i wrote this thingy.
 5. (optinal) Clear it for better overview
 6. Select the Timespan you want to export on the 'Stats'-Tab
 7. Click on the 'GET' response and navigate to its' 'Response'-Tab:
-![grafik](https://github.com/user-attachments/assets/f673a89d-72d4-41ed-9483-a0519c6c4e78)
+![grafik](https://github.com/user-attachments/assets/6e320653-e4b5-4ab0-98aa-39aa368ff452)
 8. Rightclick onto 'data' and click on 'Copy all'
 9. Replace the contents of the 'raw_data.json' in the project with your clipboard-contents (select all and ctrl+v or rightclick->paste)
 10. Runing the 'main' python file.
