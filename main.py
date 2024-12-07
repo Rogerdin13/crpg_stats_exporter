@@ -20,5 +20,6 @@ def printResults(results:dict)->str:
 if __name__ == "__main__":
     resultsDict = extractDataFromFile()
     printResults(resultsDict)
-    pass
+    input("\nPress any button to close...")
+    exit()
 
