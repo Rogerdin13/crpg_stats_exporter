@@ -24,6 +24,4 @@ Therefore i wrote this thingy.
 ![grafik](https://github.com/user-attachments/assets/6e320653-e4b5-4ab0-98aa-39aa368ff452)
 8. Rightclick onto 'data' and click on 'Copy all'
 9. Replace the contents of the 'raw_data.json' in the project with your clipboard-contents (select all and ctrl+v or rightclick->paste)
-10. Runing the 'main' python file.
-    1. through idle: open main.py and press f5
-    2. though cli: python .\main.py  (when opened temrinal in project folder)
+10. Runing the 'main' python file. (double click)
